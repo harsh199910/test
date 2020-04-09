@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	
+	string s;
+	cin>>s;
+	int flag=0;
+	for(int i=0; i<s.length(); i++)
+	{
+		if(s[i]!=s[s.length()-1-i])
+		{
+			flag=1;
+			break;
+		}
+	}
+	if(flag==1)
+		cout<<"it's not a palindrome string"<<endl;
+	else
+		cout<<"it's a palindrone string"<<endl;
+		
+	if(s.length()%2==0)
+		cout<<"string length is even"<<endl;
+	else
+		cout<<"string length is odd"<<endl;
+	
+	return 0;
+}
