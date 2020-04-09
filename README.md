@@ -10,5 +10,5 @@ Note: This is only for the junior members/new recruits of Webarch.
 - After adding your file, edit this README file by adding your name at the end.
 
 ## COMPLETED SUBMISSISONS:
-- < NAME >
+
 Keegan Paul Colaco
