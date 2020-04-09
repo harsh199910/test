@@ -1,0 +1,14 @@
+a = input("Enter a string to check if it is pallindrome or not")
+b = ""
+for i in a:
+    b = i + b
+if(a==b):
+    print("String is Pallindrome")
+else:
+    print("String is not pallindrome")
+c = len(a)
+if(c%2 == 0):
+    print("String length is even")
+else:
+    print("String length is odd")
+  
