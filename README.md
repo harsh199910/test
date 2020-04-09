@@ -11,4 +11,4 @@ Note: This is only for the junior members/new recruits of Webarch.
 
 ## COMPLETED SUBMISSISONS:
 - < NAME >
-
+Keegan Paul Colaco
